@@ -458,7 +458,7 @@ margin: auto;
 
 
 
-/* =======Responsive====== */
+/* =======Responsive====== 
 
 @media screen and (min-width: 768px) {
  
@@ -526,12 +526,12 @@ margin: auto;
     
     
 }
-
+------------------------------------------------------------------------------------------------- */
+/* =======Responsive====== 
 
 
 
 @media only screen and (max-width: 320px) {
-  /* Styles */
     #home-content h1{
     font-weight: 100;
     font-size: 10vw;
@@ -593,7 +593,8 @@ img {
 
  
 }
-
+---------------------------------------------------------------------------------------------- */
+/* =======Responsive====== 
 @media only screen and (max-width: 320px) {
     #copyright button{
     padding: 3px;
@@ -700,12 +701,12 @@ img {
 
 
 }
-  
+  ------------------------------------------------------------------------------------------- */
 
 
 /* Smartphones (portrait)11111 */
+/* =======Responsive====== 
 @media only screen and (max-width: 748px) {
-  /* Styles */
     #home-image img{
     height: 80vw;
     width:100%;
@@ -750,6 +751,7 @@ img {
   }
 }
     
+--------------------------------------------------------------------------------------------------------*/
 
 
 
@@ -783,8 +785,7 @@ img {
 
 
 
-
-
+/* =======Responsive====== 
 
 
 @media only screen and (max-width: 705px) {
@@ -899,6 +900,8 @@ img {
     height: 220vw;
     width:100%;
             }}
+
+-------------------------------------------------------------------------------------------------------*/
 /*
         @media only screen and (max-width: 250px) {
   
@@ -959,6 +962,7 @@ img {
 
 
 /* iPads (portrait and landscape)  */
+/* =======Responsive====== 
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
     #home-image img{
     height: 627px;
@@ -1010,12 +1014,13 @@ img {
     width: 100%;
     height: 450px;
   }
-    
-    
- 
+     
 }
 
+------------------------------------------------------------------------------------------------------------------- */
 /* Desktops and laptops  */
+
+/* =======Responsive====== 
 @media only screen and (min-width: 1224px) {
       #home-image img{
     height: 657px;
@@ -1069,3 +1074,5 @@ img {
   }
     
 }
+
+-------------------------------------------------------------------------------------------------------------- */
